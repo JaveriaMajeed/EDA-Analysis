@@ -34,12 +34,6 @@ This repository contains an exploratory data analysis (EDA) of a dataset compris
 
 ### Sample Visualizations
 
-![Sample Chart 1](![image](https://github.com/JaveriaMajeed/EDA-Analysis/plots/Certificates.png)
-)
-*Top Rated Movies*
+![image](https://github.com/JaveriaMajeed/EDA-Analysis/assets/126198649/4920dbbf-4090-4836-94a4-899c81c80afa)
 
-![Sample Chart 2](![image](https://github.com/JaveriaMajeed/EDA-Analysis/plots/TopGenre.png)
-)
-*Top Rated Genres*
-
-
+![image](https://github.com/JaveriaMajeed/EDA-Analysis/assets/126198649/b646be6f-3183-4b7b-ae56-6e8f9ae8a602)
